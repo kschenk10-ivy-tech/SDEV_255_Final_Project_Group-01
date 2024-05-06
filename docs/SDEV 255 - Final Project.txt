@@ -1,0 +1,27 @@
+﻿SDEV 255 Final Project - Intro and Requirements
+
+
+You will work individually, no “teams” for this project.
+
+
+The requirements for this 8-week course are as follows:
+
+
+1. Build a github repository by copying the following repository to yours:
+2. Build an account in Replit.com and tie it to the github repository created in step 1
+3. Build a mongoDB.com database environment, and a database called “test”, with
+Collections as follows:  3 students, 2 staff members in the “users” collection, and 5 classes in the “courses” collection
+4. Fill out the “Make it your own” slide found in the announcement labeled  UPDATED 4-25-24 ** FINAL PROJECT MODEL - PPTX
+5. Turn that slide in for  the M04-M05 Assignment - Final Project Launch 
+6. Make changes to the following in your Replit.com code, based on your input to step 5
+7. After changes have been made to your Replit.com code to “Make it Your Own”, 
+Submit the following to the M08 - Final Project assignment:
+Before Submitting:
+* IN MODULE 5, COMPLETE THE MAKE IT YOUR OWN CUSTOMIZATION SLIDE SUBMISSION 
+* In REPLIT.COM make sure that when you COMMIT AND PUBLISH the newest code to GitHub, and test in your webview before submitting the URL’s below.
+To Submit
+* Click on the Submit button below
+* Create a small word document that contains :
+   * The GitHub URL to your code 
+   * The URL for your REPLIT site
+   * The URL for your MongoDB site
